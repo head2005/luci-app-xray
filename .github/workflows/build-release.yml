@@ -2,8 +2,8 @@ name: Build and Release
 
 on:
   push:
-    paths:
-      - 'README.md'
+    tags:
+      - "v*.*.*"
 
 jobs:
   build_release:
