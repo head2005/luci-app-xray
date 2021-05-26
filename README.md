@@ -1,4 +1,4 @@
-# luci-app-xray docker action777
+# luci-app-xray docker action7
 
 This action build luci-app-xray with openwrt docker container.
 
